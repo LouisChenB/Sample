@@ -1,0 +1,7 @@
+{
+    "run result": true,
+    "run time": 0.027206897735595703,
+    "train time": 0.2427823543548584,
+    "loss": 24310.220703125,
+    "target lib": "paddle_cpu"
+}

@@ -1,0 +1,4 @@
+run result: True
+run time: 0.036408424377441406
+mutate info: api name mutate|new op is: Reciprocal
+father: AlexNet-18-148

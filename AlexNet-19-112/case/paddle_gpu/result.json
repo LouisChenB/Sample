@@ -1,0 +1,7 @@
+{
+    "run result": true,
+    "run time": 0.03146719932556152,
+    "train time": 0.3839559555053711,
+    "loss": 24310.220703125,
+    "target lib": "paddle_gpu"
+}
